@@ -1,0 +1,24 @@
+{
+  "name": "react-relay-hocs",
+  "version": "0.0.1",
+  "description": "Useful Higher Order Components for Relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LFDM/react-relay-hocs.git"
+  },
+  "keywords": [
+    "react",
+    "relay",
+    "hoc"
+  ],
+  "author": "LFDM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LFDM/react-relay-hocs/issues"
+  },
+  "homepage": "https://github.com/LFDM/react-relay-hocs#readme"
+}
